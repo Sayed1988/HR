@@ -8,4 +8,5 @@ use App\Http\Controllers\Controller;
 class YasinController extends Controller
 {
     //what is this for
+    //for creating staff p2
 }
